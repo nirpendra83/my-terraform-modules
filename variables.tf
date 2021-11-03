@@ -10,3 +10,8 @@ variable "instance_type" {
 variable "key" {
    default = "b"
 }
+
+
+variable "tag" {
+    default = "New-test"
+}
